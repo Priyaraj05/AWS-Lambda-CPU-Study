@@ -1,0 +1,15 @@
+{
+	"version": "1.0",
+	"role": "arn:aws:iam::378974135721:role/Faaset_lamda_role",
+	"handler": "lambda_function.lambda_handler",
+	"subnets": "",
+	"security_groups": "",
+	"env": "Variables={}",
+	"runtime": "python3.12",
+	"architectures": "x86_64",
+	"timeout": 900,
+	"storage": 512,
+	"profile": "default",
+	"region": "us-east-1",
+	"memory": 512
+}
