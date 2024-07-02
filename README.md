@@ -35,7 +35,7 @@ FaaSRunner.experiment(
 ### Results
 
 The experiments were run for 7 AWS Regions. It was observed that newer regions had better CPU distribution. The result of the region: Canada
-![alt text](https://github.com/Priyaraj05/AWS-Lambda-CPU-Study/tree/master/Analysis/Graphs/canada.png?raw=true)
+![alt text](./Analysis/Graphs/canada.png)
 
 
 
